@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    
+    
+}
+header{
+    background-color: rgb(246, 58, 58);
+    width: 100%;
+    
+}
+body{
+    background-color: rgba(245, 186, 122, 0.399);
+    
+}
+.nav{
+    color: black;
+    border-radius: 5px;
+    margin: 0,3%;
+    padding: 0,3%;
+    text-decoration: none;
+    font-size: 1vw;
+}
+.img{
+    text-align: center;
+    margin: 1px;
+    
+}
+.slogan{
+    font-size: 15px;
+}
+.sec{
+    font-size: 25px;
+
+}
+.redes{
+width: 20px;
+    margin: 1px;
+    padding: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    height: 50px;
+    margin-top: 0;
+    background-color: rgb(146, 239, 239);
+
+}
+   
